@@ -1,2 +1,2 @@
 # DBMS
-database 공부자료
+oracle 공부자료
